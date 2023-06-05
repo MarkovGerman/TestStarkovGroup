@@ -1,0 +1,18 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "7.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\German\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\German\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ],
+    "configProperties": {
+      "System.Reflection.NullabilityInfoContext.IsSupported": true,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
